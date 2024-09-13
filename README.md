@@ -1,6 +1,6 @@
-# Hacker_Card.md
+# NFC_Card.md
 
-# PCB Hacker Card
+# NFC Business Card PCB
 
 A PCB business card that contains my name, LinkedIn, gmail, and Instagram tags. There is an NFC chip and an LED that will light up once the chip is scanned. I programmed the NFC chip to lead to my Linktree, but you can easily program the card to lead to any mobile link/application using the various NFC programming apps available (mobile).
 
